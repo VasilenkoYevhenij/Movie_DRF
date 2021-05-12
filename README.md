@@ -10,4 +10,4 @@
 <li> Ratings </li>
 <li> Reviews </li>
 
-Implemented JWT authentication and filtering by years and/or genres.
+<h4>Implemented JWT authentication and filtering by years and/or genres.</h4>
