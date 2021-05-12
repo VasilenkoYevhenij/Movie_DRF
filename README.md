@@ -1,6 +1,6 @@
-<h2>Movie database on Django REST Framework.</h2>
+<h1>Movie database on Django REST Framework.</h1>
 
-<h4>Models</h4>
+<h2>Models</h2>
 
 <li> Movies </li>
 <li> Categories </li>
